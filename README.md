@@ -9,18 +9,18 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Diogo Rodrigues da Silva
+- Matricula: 1189849
+- Proposta de projeto escolhida: Catalogo dos meus Filmes e Series Favoritos
+- Breve descrição sobre seu projeto: Meu Perfil com meu Jogo favorito, certificados e afins.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+(Computador)[]
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+(Celular)[]
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
